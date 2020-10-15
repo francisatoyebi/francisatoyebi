@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ### Welcome to my GitHub page!
 - 🌱 I’m currently learning keras and tensorflow for deep learning
 - 👯 I’m looking to collaborate on:
-    1. Interactive Visualization and Data Dashboard Projects
+    - Interactive Visualization and Data Dashboard Projects
+    - Machine Learning in Finance, Health or Social good
+    - NLP in Finance, Health or Social good
+    - ML/NLP Deployment involving flask
 
 #### Connect with me on these platforms:
 
