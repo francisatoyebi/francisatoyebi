@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Welcome to my GitHub page!**
+### Welcome to my GitHub page!
+- 🌱 I’m currently learning keras and tensorflow for deep learning
+- 👯 I’m looking to collaborate on:
+    1. Interactive Visualization and Data Dashboard Projects
 
-Connect with me on these platforms:
+#### Connect with me on these platforms:
 
 <a href="https://www.youtube.com/channel/UCxmWFjnVu-451aqSi3fp_KQ?view_as=subscriber"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/FrancisAtoyebi"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/francis-atoyebi"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
