@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Welcome to my GitHub page!
 - 🌱 I’m currently learning keras for deep learning
 - 👯 I’m looking to collaborate on:
-    - Interactive Viz and Viz Dashboard Projects
-    - Machine Learning in Finance, Health or Social good
+    - Interactive Dashboard Projects using Python or Power BI
+    - ML in Finance, Health or Social good
     - NLP in Finance, Health or Social good
     - ML/NLP Deployment involving flask
 
