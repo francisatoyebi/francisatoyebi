@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Welcome to my GitHub page!
-- 🌱 I’m currently learning keras and tensorflow for deep learning
+- 🌱 I’m currently learning keras for deep learning
 - 👯 I’m looking to collaborate on:
     - Interactive Viz and Viz Dashboard Projects
     - Machine Learning in Finance, Health or Social good
