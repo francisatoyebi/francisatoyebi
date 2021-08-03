@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 ### Welcome to my GitHub page!
 - 🌱 I’m currently learning keras for deep learning
-- 👯 I’m looking to collaborate on:
+- 👯 I’m looking for collaborative projects and topics on:
     - Interactive Dashboard Projects using Python or Power BI
-    - ML in Finance, Health or Social good
-    - NLP in Finance, Health or Social good
-    - ML/NLP Deployment involving flask
+    - ML/NLP in Finance, Health or Social good
+    - ML/NLP Deployment involving flask/heroku
 
 #### Connect with me on these platforms:
 
