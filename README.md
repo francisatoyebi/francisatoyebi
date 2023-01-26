@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Welcome to my GitHub page!
-- 🌱 I’m currently learning keras for deep learning
 - 👯 I’m looking for collaborative projects and topics on:
     - Interactive Dashboard Projects using Python or Power BI
     - ML/NLP in Finance, Health or Social good
