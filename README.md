@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Welcome to my GitHub page!
-- 👯 I’m looking for collaborative projects and topics on:
-    - Interactive Dashboard Projects using Python or Power BI
-    - ML/NLP in Finance, Health or Social good
-    - ML/NLP Deployment involving flask/heroku
+I am Data Professional with 5+ years of experience working in different sectors (Health, FMCG, Sports, Public Development and Finance). I’m fueled by a desire to bring clarity to complexity — in data, in systems, and in life.
 
 #### Connect with me on these platforms:
 
