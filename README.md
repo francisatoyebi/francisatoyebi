@@ -1,8 +1,8 @@
 ## Francis Atoyebi
 
-**Data platform engineer.** Working at Validis where I turning financial data from a dozen accounting systems into something lenders and auditors can act on. I set the delivery standards, testing conventions and orchestration architecture the data team works to.
+**Data platform engineer.** Working at Validis where I turn financial data from a dozen accounting systems into something lenders and auditors can act on. I set the delivery standards, testing conventions and orchestration architecture behind the data system.
 
-Previously built the data platform at Chelsea FC on GCP and BigQuery.
+Previously built the data platform at Chelsea FC on GCP and BigQuery using Terraform, dbt and Airflow.
 
 ---
 
