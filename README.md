@@ -1,6 +1,6 @@
 ## Francis Atoyebi
 
-**Data platform engineer.** I own the ERP connector workstream at Validis, turning financial data from a dozen accounting systems into something lenders and auditors can act on. I set the delivery standards, testing conventions and orchestration architecture the data team works to.
+**Data platform engineer.** Working at Validis where I turning financial data from a dozen accounting systems into something lenders and auditors can act on. I set the delivery standards, testing conventions and orchestration architecture the data team works to.
 
 Previously built the data platform at Chelsea FC on GCP and BigQuery.
 
