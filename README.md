@@ -1,22 +1,21 @@
-### Hi there 👋
+### Francis Atoyebi
 
-<!--
-**francisatoyebi/francisatoyebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data platform engineer. I own the ERP connector workstream at Validis, where financial data from a dozen accounting systems becomes something lenders and auditors can act on, and I set the delivery standards, testing conventions and orchestration architecture the data team works to.
 
-Here are some ideas to get you started:
+**Orchestration & transformation:** Dagster, dbt, Airflow, dlt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Welcome to my GitHub page!
-I am Data Professional with 5+ years of experience working in different sectors (Health, FMCG, Sports, Public Development and Finance). I’m fueled by a desire to bring clarity to complexity — in data, in systems, and in life.
+**Languages & data:** Python, SQL, DuckDB, BigQuery, PostgreSQL
 
-#### Connect with me on these platforms:
+**Infrastructure:** Terraform, Docker, Kubernetes, CI/CD
 
-<a href="https://www.youtube.com/channel/UCxmWFjnVu-451aqSi3fp_KQ?view_as=subscriber"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/FrancisAtoyebi"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/Twitter_Logo_Blue_gbtagu.png" alt="drawing" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/francis-atoyebi"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+**AI-assisted engineering:** production agents in the engineering workflow, migration tooling packaged as reusable skills, LLM fine-tuning (LoRA, RoBERTa) and RAG since 2022
+
+**Domain:** ERP and accounting-system integration, and financial data modelling across AR, AP and GL.
+
+Previously built the data platform at Chelsea FC on GCP and BigQuery.
+
+[LinkedIn](https://linkedin.com/in/francis-atoyebi) | [Twitter](https://twitter.com/FrancisAtoyebi)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=francisatoyebi&show_icons=true&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=francisatoyebi&layout=compact&hide_border=true&hide=jupyter%20notebook,html)
