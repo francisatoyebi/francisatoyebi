@@ -10,8 +10,6 @@ Data platform engineer. I own the ERP connector workstream at Validis, where fin
 
 **AI-assisted engineering:** production agents in the engineering workflow, migration tooling packaged as reusable skills, LLM fine-tuning (LoRA, RoBERTa) and RAG since 2022
 
-**Domain:** ERP and accounting-system integration, and financial data modelling across AR, AP and GL.
-
 Previously built the data platform at Chelsea FC on GCP and BigQuery.
 
 [LinkedIn](https://linkedin.com/in/francis-atoyebi) | [Twitter](https://twitter.com/FrancisAtoyebi)
